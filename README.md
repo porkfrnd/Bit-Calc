@@ -24,7 +24,7 @@ It works by doing simple binary operation by using the following Bitwise operato
 ## How to use?
 First u will need to install this repository
 ```
-git install https://github.com/porkfrnd/Bit-Calc/
+git clone https://github.com/porkfrnd/Bit-Calc/
 ```
 
 and then create a file there and call
