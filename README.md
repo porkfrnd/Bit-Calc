@@ -26,9 +26,12 @@ First u will need to install this repository
 ```
 git install https://github.com/porkfrnd/Bit-Calc/
 ```
+
 and then create a file there and call
+
 > from bit_calc import *
-and then use it as shown in the test.py file
+
+and then use it as shown in the test.py file inside the bit_calc folder
 
 ### ***Note***
 
