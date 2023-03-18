@@ -21,6 +21,15 @@ It works by doing simple binary operation by using the following Bitwise operato
 * **Bitwise AND**
 * **Bitwise NOT**
 
+## How to use?
+First u will need to install this repository
+```
+git install https://github.com/porkfrnd/Bit-Calc/
+```
+and then create a file there and call
+> from bit_calc import *
+and then use it as shown in the test.py file
+
 ### ***Note***
 
 This application does have some downsides like subtraction cannot be done with the smaller number upfront like shown below
